@@ -1,7 +1,7 @@
 /** Title: Minesweeper
   * Author: Jason Sun
   * Description: minesweeper game
-  * Last updated: 29 Dec 2021
+  * Last updated: Jan 2022
   * Version 2.0
   */
 
