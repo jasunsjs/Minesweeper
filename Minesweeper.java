@@ -113,10 +113,10 @@ public class Minesweeper{
         
         // load pictures from files
         try {                
-            gameBackground = ImageIO.read(new File("Minesweeper_Background.png"));
-            minesweeperCellFlag = ImageIO.read(new File("Minesweeper_Cell_Flag.png"));
-            minesweeperMineIcon = ImageIO.read(new File("Minesweeper_Mine_Icon.png"));
-            gameTitle = ImageIO.read(new File("Minesweeper_Title.png"));
+            gameBackground = ImageIO.read(new File("assets/Minesweeper_Background.png"));
+            minesweeperCellFlag = ImageIO.read(new File("assets/Minesweeper_Cell_Flag.png"));
+            minesweeperMineIcon = ImageIO.read(new File("assets/Minesweeper_Mine_Icon.png"));
+            gameTitle = ImageIO.read(new File("assets/Minesweeper_Title.png"));
         } catch (IOException ex){}
         
         gameWindow.setVisible(true);
