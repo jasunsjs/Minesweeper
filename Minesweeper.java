@@ -1,4 +1,4 @@
-/** Final Project: Minesweeper
+/** Title: Minesweeper
   * Author: Jason Sun
   * Description: minesweeper game
   * Date: 26 Jan 2022
