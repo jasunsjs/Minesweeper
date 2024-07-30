@@ -2,7 +2,7 @@
   * Author: Jason Sun
   * Description: minesweeper game
   * Date: 26 Jan 2022
-  * Version 1.0
+  * Version 2.0
   */
 
 // Import java packages
